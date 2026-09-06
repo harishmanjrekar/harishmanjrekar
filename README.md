@@ -1,4 +1,4 @@
-<img align="right" width="300" src="REPLACE_WITH_YOUR_IMAGE_URL" alt="Harish Manjrekar">
+<img align="right" width="300" src="https://github.com/harishmanjrekar/harishmanjrekar/blob/main/Gemini_Generated_Image_jryc7tjryc7tjryc.png" alt="Harish Manjrekar">
 
 # 💫 About Me
 
